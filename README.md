@@ -45,7 +45,7 @@
   ## 📫 &nbsp;Get in Touch with me
 
  
-  [![LinkedIn Badge](https://img.shields.io/badge/-RushikeshWavre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RushikeshWavre/)]([https://www.linkedin.com/in/durvesh22/](https://www.linkedin.com/in/rushikesh-wavre-b5b990192/))&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-RushikeshWavre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RushikeshWavre/)]([https://www.linkedin.com/in/rushikesh-wavre-b5b990192/](https://www.linkedin.com/in/rushikesh-wavre-b5b990192/))&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-wavrerushikeshau@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:wavrerushikeshau@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-impulsivedeed-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/impulsivedeed/)&nbsp;
 
