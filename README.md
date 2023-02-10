@@ -1,5 +1,7 @@
-
-<h1 align="center">Hello, There 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B9D9&center=true&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;This+is+Rushikesh+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="center">A Passionate Software Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -11,18 +13,40 @@
 
 - 💬 Ask me about **Python, C**
 
-- 📫 How to reach me **wavrerushikeshau@gmail.com**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushikesh wavre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh wavre" height="30" width="40" /></a>
-<a href="https://instagram.com/_rishikesh_1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rishikesh_116" height="30" width="40" /></a>
-<a href="https://discord.gg/#7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7781" height="30" width="40" /></a>
-</p>
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;My Tech Stack
 
-</i><h3 align="left" >My Tech Stack:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwavre&show_icons=true&locale=en&layout=compact" alt="rwavre" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwavre&" alt="rwavre" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div>
+
+  ## 📊 &nbsp;GitHub Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwavre2000&show_icons=true&theme=radical)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwavre2000&layout=compact)](https://github.com/rwavre2000/github-readme-stats)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div>
+
+  ## 📫 &nbsp;Get in Touch with me
+
+ 
+  [![LinkedIn Badge](https://img.shields.io/badge/-RushikeshWavre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RushikeshWavre/)]([https://www.linkedin.com/in/durvesh22/](https://www.linkedin.com/in/rushikesh-wavre-b5b990192/))&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-wavrerushikeshau@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:wavrerushikeshau@gmail.com)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-impulsivedeed-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/impulsivedeed/)&nbsp;
+
+ 
